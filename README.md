@@ -5,7 +5,7 @@
 Activity                   | Deadline
 -------------------------- | ------------------------------
 Project Walkthrough:       | February 20th, 2024 during lab
-Final Submission: | February 27th, 2022 by 2:30pm
+Final Submission: | February 27th, 2024 by 2:30pm
 
 ## Class Community Guidelines
 
