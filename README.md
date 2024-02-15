@@ -20,7 +20,7 @@ Drones can be dangerous and cause injury! Additionally, Bebop drones are notorio
 - No flying inside the buildings unless it is in the Wise Center.
 - No flying over or near anyone.
 - Must fly in the flying zone (Wise Center's blue courts or public property outside).
-- Use hull protection for Bebop 1 or 3D print propeller guards for Bebop 2 (the 3D printing files are provided in the lab repository).
+- Use hull protection for Bebop 1 or 3D print propeller guards for Bebop 2.
 - Use safety glasses (available in ALIC) if you are operating in the close proximity of the flying drone, especially if flying it without hull or propeller protection.
 - If you are not wearing glasses, do NOT put your eyes near the propellers.
 - If you decide to test your drone outside, make sure to do so outside of campus, remember flying drones on Allegheny campus is not allowed! Also, be sure to obey the [FAA flying restrictions](https://www.faa.gov/uas/recreational_fliers/where_can_i_fly/).
